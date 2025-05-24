@@ -1,0 +1,99 @@
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: rock, Computer: scissors, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: rock, Result: You Win!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: rock, Computer: rock, Result: Draw!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: paper, Result: Draw!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: rock, Computer: paper, Result: You Lose!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: rock, Computer: paper, Result: You Lose!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: scissors, Computer: paper, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: rock, Computer: rock, Result: Draw!
+Player: scissors, Computer: paper, Result: You Win!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: rock, Computer: scissors, Result: You Win!
+Player: rock, Computer: rock, Result: Draw!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: paper, Computer: paper, Result: Draw!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: scissors, Computer: scissors, Result: Draw!
+Player: paper, Computer: scissors, Result: You Lose!
+Player: scissors, Computer: paper, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: rock, Result: You Lose!
+Player: paper, Computer: rock, Result: You Win!
+Player: rock, Computer: scissors, Result: You Win!
+Player: rock, Computer: paper, Result: You Lose!
+Player: rock, Computer: scissors, Result: You Win!
+Player: paper, Computer: rock, Result: You Win!
+Player: scissors, Computer: paper, Result: You Win!
+Player: paper, Computer: paper, Result: Draw!
